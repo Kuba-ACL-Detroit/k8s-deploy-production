@@ -97,7 +97,6 @@ spec:
           number: 443
           name: HTTPS
 
-x
   - match:
     - port: 443
       sni_hosts:
